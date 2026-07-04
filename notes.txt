@@ -3,3 +3,4 @@ adding lines from the feature login branch
 adding line for advanced
 adding line for ammend
 amend three types with message or without message
+modified for stash
